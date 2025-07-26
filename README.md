@@ -58,4 +58,4 @@ In summary, this Java File Handling Utility provides a solid foundation for anyo
 
 OUTPUT:
 
-
+[FILE HANDLING UTILITY OUTPUT .txt](https://github.com/user-attachments/files/21442172/FILE.HANDLING.UTILITY.OUTPUT.txt)
